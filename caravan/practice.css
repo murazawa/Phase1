@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.style {
+  width: 700px;
+  height: 300px;
+  display: flex;
+  line-height: 300px;
+  text-align: center;
+  border-bottom: 4px dotted black;
+  border-top: 4px dotted black;
+  margin: 100px auto;
+
+}
+
+.html {
+  height: 200px;
+  width: 200px;
+  background-color: orange;
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+  line-height: 200px;
+  margin-top: 50px;
+  margin-right: 50px;
+
+  box-shadow: 13px 15px 9px black;
+  border-radius: 5px;
+}
+
+.css {
+  height: 200px;
+  width: 200px;
+  background-color: lightblue;
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+  line-height: 200px;
+  box-shadow: 13px 15px 9px black;
+  margin-right: 50px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
+.ruby {
+  height: 200px;
+  width: 200px;
+  background-color: brown;
+  color: #fff;
+  font-size: 40px;
+  text-align: center;
+  line-height: 200px;
+  box-shadow: 13px 15px 9px black;
+  margin-top: 50px;
+  border-radius: 5px;
+}
